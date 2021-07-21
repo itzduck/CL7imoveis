@@ -1,5 +1,5 @@
 import { makeStyles } from "@material-ui/core/styles";
-import imovelSobre from "../../../imagem/80wet.jpg";
+import imovelSobre from "../../../imagem/asd.jpeg";
 
 const useStyles = makeStyles((theme) => ({
     root: {

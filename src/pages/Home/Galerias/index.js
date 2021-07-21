@@ -12,11 +12,7 @@ const Galerias = () => {
         <div className={classes.root}>
             <h1 className={classes.galeria}>GALERIAS</h1>
             <div className={classes.buttons}>
-                {/* <ButtonGroup variant="text" color="primary" aria-label="text primary button group">
-                    <Button>IMOVEIS</Button>
-                    <Button>CONDOMINIOS</Button>
-                    <Button>ALUGUEL</Button>
-                </ButtonGroup> */}
+            
                 <ButtonGroup size="large" color="primary" aria-label="large outlined primary button group">
                     <Button>IMOVEIS</Button>
                     <Button>CONDOMINIOS</Button>
